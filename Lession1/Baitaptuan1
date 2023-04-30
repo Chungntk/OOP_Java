@@ -1,0 +1,12 @@
+// Bài tập tuần 1
+Cài đặt jdk vào máy. Sau đó thực hiện các bài tập sau:
+1. Nhập vào 3 số nguyên từ bàn phím, tìm số lớn nhất, nhỏ nhất?
+2. Nhập vào một số nguyên dương n từ bàn phím. Tính và in ra
+- Tổng các số từ 1-n
+- Tổng các số chẵn < n
+- Tổng: 1 + 1/2 + 1/3 + ... + 1/n 
+3. Nhập vào một số n từ bàn phím, thực hiện các yêu cầu sau:
+- Kiểm tra n có phải là số chia hết cho 3 hay không?
+- Kiếm tra n có phải là số nguyên tố hay không?
+- Kiếm tra n có phải là số hoàn hảo hay không? (Số hoàn hảo là số bằng tổng các ước dương nhỏ hơn nó, ví dụ: 6 = 1 + 2 + 3)
+- Kiểm tra n có phải là số chính phương hay không? (Số chính phương là bình phương của một số nào đó, ví dụ: 1, 4, 9, 16, 25, ...)

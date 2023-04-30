@@ -1,0 +1,22 @@
+3
+1
+001
+Giải tích
+3
+Nhà Xuất Bản Giáo Dục
+20000
+1
+1
+002
+Đại số tuyến tính
+4
+Nhà Xuất Bản Đại Học Quốc Gia
+15000
+0
+0
+003
+Tâm Lý Học Đại Cương
+4
+Nhà Xuất Bản Giáo Dục
+20000
+10000
