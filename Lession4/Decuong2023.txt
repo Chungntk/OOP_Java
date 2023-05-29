@@ -1,0 +1,19 @@
+- Nội dung ôn tập
++ Mảng 1 chiều
+	- Nhập/in
+	- Tính tổng, trung bình cộng, tìm max, min.
+	- Tính chất số: tìm số nguyên tố, số chính phương, số hoàn hảo
+	- Tính chất mảng: mảng đối xứng, mảng đan dấu (hai phần tử ở cạnh nhau thì khác dấu nhau a[i] * a[i+1] < 0), cấp số cộng, cấp số nhân?
+	- Sắp xếp tăng dần/ giảm dần
++ Mảng 2 chiều:
+	- Nhập / in
+	- Tính tổng hàng/cột
+	- Tìm số lớn/nhỏ nhất của hàng/cột
++ OOP + đọc ghi file
+--> Nhập n đối tượng từ file/bàn phím, có thể có kế thừa, ví dụ:
+	- Student (nhiều thuộc tính)
+	- Car
+	- Computer 
+	--> Tìm đối tượng có thuộc tính nào đó lớn nhất, nhỏ nhất? 
+	--> Tìm kiếm theo chuỗi: Car có nsx là gì? Student có quê quán ở đâu?
+	--> Sắp xếp theo thứ tự tăng/giảm của 1 thuộc tính nào đó.

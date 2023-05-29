@@ -17,20 +17,17 @@ public class XoaPTtrung{
     //  }
     public static int[] xoaPhantu(int[] array) {
         Set<Integer> set = new HashSet<>();
-        int[] newArray;
-        int index = 0;
+        List<Integer> list = new ArrayList<>();
         
-        for (int element : array) {
-            if (!set.contains(element)) {
-                set.add(element);
-                index++;
+        for (int i = 0; i < array.length; i++) {
+            if (set.add(array[i])) {
+                list.add(array[i]);
             }
         }
         
-        newArray = new int[set.size()];
-        index = 0;
-        for (int element : set) {
-            newArray[index++] = element;
+        int[] newArray = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            newArray[i] = list.get(i);
         }
         
         return newArray;

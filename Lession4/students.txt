@@ -1,0 +1,16 @@
+Lan
+1
+Ha Noi
+9
+Ngoc
+2
+Ha Nam
+10
+Nam
+3
+Thanh Hoa
+7
+Trung
+4
+Thai Nguyen
+7.0
